@@ -1,5 +1,6 @@
 # npm
-What is Node Package Manager and does it work?
+What is Node Package Manager and how does it work? 
+I have used **[Roadmap.sh](https://roadmap.sh/full-stack)** to learn more about **npm**
 
 ### Infos
 
